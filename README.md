@@ -16,7 +16,7 @@ git add .
 ```
 ### 寫下更新內容
 ```bash
-git commit -a "Resolve merge conflict"
+git commit -m "Resolve merge conflict"
 ```
 
 ### 確認推送上傳
