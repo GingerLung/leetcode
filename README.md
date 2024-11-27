@@ -14,6 +14,10 @@ git reset --hard origin/main
 ```bash
 git add .
 ```
+### 寫下更新內容
+```bash
+git commit -a "Resolve merge conflict"
+```
 
 ### 確認推送上傳
 ```bash
